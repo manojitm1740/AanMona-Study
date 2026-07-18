@@ -1,0 +1,6 @@
+{
+  "name": "AanMona Study",
+  "description": "Bilingual (Bengali/English) educational platform for West Bengal Board students (Classes 1-12) featuring live tests, student/teacher dashboards, and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
